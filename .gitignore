@@ -1,0 +1,11 @@
+# Segredos e dados locais: nunca no Git
+.env
+backend/.env
+backend/contas.json
+backend/contas.json.tmp
+backend/historico_api.json
+backend/historico_api.json.tmp
+__pycache__/
+node_modules/
+frontend/dist/
+_backup_*/

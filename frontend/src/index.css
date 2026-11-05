@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "./styles/skip-theme.css";
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--skip-bg);
+  -webkit-font-smoothing: antialiased;
+}
